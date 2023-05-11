@@ -1,5 +1,5 @@
-# bitcoin-price-prediction-using-google-trends
-### CS 651: Data-Intensive Distributed Computing 
+# Bitcoin price prediction using Google trends
+### CS 651: Data-Intensive Distributed Computing final project
 
 The project involved the development of a Bitcoin price prediction model 
 using a combination of data from Bitcoin transaction blocks, 
